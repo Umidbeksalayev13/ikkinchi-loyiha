@@ -1,2 +1,3 @@
-Salom bolalar .
+Salom .
 Bugubgi dars
+Git haiqda
